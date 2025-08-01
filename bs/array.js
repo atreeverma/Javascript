@@ -17,14 +17,23 @@
 // console.log("s",arr1);
 
 //array on string
-const marverl=["sdfsd","sdgsdg","dghfgh"]
-const dc=["sdgsdg","sgsfgsfg"]
+//const marverl=["sdfsd","sdgsdg","dghfgh"]
+//const dc=["sdgsdg","sgsfgsfg"]
 //marverl.push(dc)
 //console.log(marverl);
 //const arr1=marverl.concat(dc)
 //console.log(arr1);
 //const allhero=[...marverl,...dc]
 //console.log(allhero);
+// const hero=[1,2,4,[1,2,3,[4,5,5,[7,8,9]]]]
+// const he=hero.flat(Infinity)
+// console.log(he);
+// console.log(Array.isArray("dfsg"));
+// console.log(Array.from("sgsfg"));
+//console.log(Array.of(12,23,44));
+
+
+
 
 
 
