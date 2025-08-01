@@ -16,6 +16,17 @@
 // console.log(arr2);
 // console.log("s",arr1);
 
+//array on string
+const marverl=["sdfsd","sdgsdg","dghfgh"]
+const dc=["sdgsdg","sgsfgsfg"]
+//marverl.push(dc)
+//console.log(marverl);
+//const arr1=marverl.concat(dc)
+//console.log(arr1);
+//const allhero=[...marverl,...dc]
+//console.log(allhero);
+
+
 
 
 
