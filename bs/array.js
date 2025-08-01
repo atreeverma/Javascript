@@ -9,6 +9,14 @@ console.log(arr2);
 console.log(arr1.indexOf(2));
 const newarr=arr1.join()
 console.log(newarr);
+const myarr=arr2.slice(1,3)
+//const myarr1=arr2.splice(1,3)
+console.log(myarr);
+//console.log(myarr1);
+console.log(arr2);
+console.log("s",arr1);
+
+
 
 
 
