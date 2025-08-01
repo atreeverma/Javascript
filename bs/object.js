@@ -20,6 +20,32 @@
 //object singleton
 
 
+// const tinder=new Object()
+// tinder.image="cncgn"
+// tinder.id=2334
+// console.log(tinder.image);
+// console.log(tinder.id);
+
+// const regu={
+//     email:"xfbcb",
+//     full:{
+//         user:{
+//             first:"fgcf",
+//         }
+//     }
+// }
+// console.log(regu.full.user.first);
+
+//const obj1={1:"a",2:"b"}
+// const obj2={3:"c",4:"d"}
+// const obj3={obj1,obj2}
+// const obj3=Object.assign({},obj1,obj2)
+//const obj3={...obj1,...obj2}
+//console.log(obj3);
+
+
+
+
 
 
 
