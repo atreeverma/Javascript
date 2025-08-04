@@ -42,6 +42,24 @@
 // const obj3=Object.assign({},obj1,obj2)
 //const obj3={...obj1,...obj2}
 //console.log(obj3);
+// const user=[
+//     {
+//         id:1,
+//         email:"dfdf",
+//     }
+// ]
+// console.log(user[0].email);
+// console.log(Object.keys(tinder));
+// console.log(Object.values(tinder));
+// const course={
+//     email:'sdfvs',
+//     price:132,
+// }
+// const {price:p}=course
+// console.log(p);
+
+
+
 
 
 
