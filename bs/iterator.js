@@ -67,3 +67,21 @@
 //     console.log(item+' '+index+' '+arr);
     
 // });
+
+// const myobject=[
+//     {
+//         language:'C++',
+//         filename:'cpp',
+//     },
+//     {
+//         language:'javascript',
+//         filename:'js',
+//     },
+//     {
+//         language:'ruby',
+//         filename:'rb',
+//     }
+// ]
+// myobject.forEach((item)=>{
+//     console.log(item.filename);
+// })
