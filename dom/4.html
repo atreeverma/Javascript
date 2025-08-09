@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM4</title>
+</head>
+<body style="background-color: black;color: white;">
+    <ul class="language">
+        <li>javascript</li>
+        
+    </ul>
+</body>
+<script>
+    function addl(langg){
+        const li=document.createElement('li');
+        li.innerHTML=`${langg}`
+        document.querySelector('.language').appendChild(li);
+    }
+    addl("ruby");
+    function addd(langg){
+        const lang=document.createElement('lang');
+        lang.appendChild(document.createTextNode(`${langg}`))
+        document.querySelector('.language').appendChild(lang);
+    }
+    addd('rubydv')
+
+</script>
+</html>
