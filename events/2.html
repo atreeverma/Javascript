@@ -7,6 +7,20 @@
 </head>
 <body>
     <h1>Chai or Code</h1>
+    <button id="start">start</button>
     <button id="stop">stop</button>
 </body>
+<script>
+    const startprinting=function(){
+        console.log(Date.now());
+        
+    }
+    document.querySelector('#start').addEventListener('click',function(){
+        const st=setInterval(startprinting,3000)
+        document.querySelector('#stop').addEventListener('click',function(){
+            clearInterval(st)
+        })
+    })
+    
+</script>
 </html>
